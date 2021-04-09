@@ -60,7 +60,7 @@ var cartaNatasha = {
 
 var cartaGaviao = {
     nome: "Gavião Arqueiro",
-    imagem: "https://lh3.googleusercontent.com/proxy/NGHDGj8wMVNZ_Kt8J73pUWZEVxprqMx5iCk1j2kyCThXG1Y59VyY5qrhtIj0q88HCO_PkHy8ORttvvuyBnfy0gxHOni6DVuMU-Wjy60-",
+    imagem: "https://3.bp.blogspot.com/-b3cMb4HocKI/XLcYFSwnoeI/AAAAAAAAfBU/_66nrd8geVkBJyws_crvbbpcD-JT_PQLgCLcBGAs/s1600/Marvel%2527s%2BAvengers%2B-%2BAge%2BOf%2BUltron%2B%25288%2529.jpg",
     atributos: {
         Habilidades: 5,
         Resistência: 1,
